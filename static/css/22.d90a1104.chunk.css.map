@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/scss/_custom.scss"],"names":[],"mappings":"AAEA,cACI,qBAAsB,CACtB,eAAgB","file":"22.d90a1104.chunk.css","sourcesContent":["// Here you can add other styles\n  \n.react-switch {\n    vertical-align: middle;\n    margin-left: 4px;\n  }\n        "]}
